@@ -1,0 +1,26 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# ignore everything in the build directory
+build/*
+/build
+
+# ignore everything in shares directory
+shares/*
+/shares
+# ignore everything in the trash directory
+trash/*
+/trash
