@@ -1,6 +1,6 @@
 # Sommelier Wallet Generator
 
-A command-line tool that generates a new Sommelier wallet, including a BIP39 mnemonic phrase, private key, public key, and address with the `somm` prefix. Written in Go and currently uses the Cosmos SDK and btcsuite libraries.
+A command-line tool that generates a new Sommelier.finance wallet, including a BIP39 mnemonic phrase, private key, public key, and address. Written in Go and currently uses the Cosmos SDK and btcsuite libraries.
 
 ## Prerequisites
 
