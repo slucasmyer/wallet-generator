@@ -6,7 +6,7 @@ A command-line tool that generates a new Sommelier.finance wallet, including a B
 
 To build and run the wallet generator securely, you'll need:
 
-1. 2 computers: one internet-connected, and one air-gapped, both running identical Ubunutu Distros - *preferably ubuntu > 18.04* - with [Go](https://golang.org/dl/) installed on the internet-connected machine.
+1. 2 computers: one internet-connected, and one air-gapped, both running identical Ubuntu Distros - *preferably ubuntu > 18.04* - with [Go](https://golang.org/dl/) installed on the internet-connected machine.
 2. A sercure and encrypted transfer device, such as a USB drive.
 
 ## Usage
